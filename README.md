@@ -1,5 +1,5 @@
 # 🤓 About Me:
-**2nd year student at Airlangga University majoring in robotics and artificial intelligence. Interested in data analysis, AI, frontend development, microcontroller programming, and robotics.**
+**College student at Airlangga University majoring in robotics and artificial intelligence. Interested in data analysis, AI, frontend development, and robotics.**
 
 
 ## 🌐 Socials:
