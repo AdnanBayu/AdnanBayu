@@ -1,5 +1,5 @@
 # 🤓 About Me:
-**Undergraduate student at Airlangga University majoring in robotics and artificial intelligence. Interested in data analysis, AI, frontend development, and robotics.**
+**Undergraduate student at Airlangga University majoring in robotics and artificial intelligence. Interested in data analysis, AI, frontend development, and robotics.** </br>
 ![github profile](https://user-images.githubusercontent.com/104254722/217596041-ce246dee-5ee1-4b31-a9ef-c9e715fbb818.jpg)
 
 
