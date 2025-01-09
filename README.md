@@ -1,5 +1,5 @@
 # 🤓 About Me:
-**Undergraduate student at Airlangga University majoring in robotics and artificial intelligence. Interested in Artificial Intelligence and Project Management.** </br>
+**Final year Robotics and Artificial Intelligence Engineering student at Airlangga University with a strong passion for technology and business strategy, equipped with 3+ years of leadership and community building experiences through several organizations. Experienced in robotics AI projects and project management. Internship at AXISlabs and Campus Ambassador for Jobstreet.** </br>
 
 
 ## 🌐 Socials:
