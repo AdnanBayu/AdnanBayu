@@ -1,5 +1,5 @@
 # 🤓 About Me
-**Final year Robotics and Artificial Intelligence Engineering student at Airlangga University with a strong passion for technology and business strategy, equipped with 3+ years of leadership and community building experiences through several organizations. Experienced in robotics AI projects and project management. Internship at AXISlabs and Campus Ambassador for Jobstreet.** </br>
+**Adnan is a purpose-driven innovator passionate about harnessing technology and strategic thinking to create real-world impact. With a proven ability to lead diverse teams and drive creative solutions, he thrives in dynamic environments that demand agility and bold thinking. His commitment to continuous learning, blending theory with hands-on practice, has earned him multiple awards and the privilege to share his insights as a public speaker.** </br>
 
 
 ## 🌐 Socials
