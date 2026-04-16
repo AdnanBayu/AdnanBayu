@@ -1,5 +1,5 @@
 # 🤓 About Me
-**I do value creation.** </br>
+**Optimizing my time to do value creation.** </br>
 
 
 ## 🌐 Socials
